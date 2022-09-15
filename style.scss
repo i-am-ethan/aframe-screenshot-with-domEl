@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.balloon-wrapper{
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 1200px;
+    height: 600px;
+    #btn{
+        position: absolute;
+        top: 0;
+        left: 0;
+    }
+    .balloon-wrapper-img{
+        position: absolute;
+        top: 20px;
+        left: 20px;
+    }
+}
